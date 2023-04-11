@@ -1,6 +1,7 @@
 # Suspension
 
-Tematem zagadnienia jest opracowanie
-modelu regulatora zmniejszającego drgania zawieszenia
-samochodowego oraz symulacją dwóch przykładowych
-scenariuszy testowych związanych z ruchem samochodu.
+The topic of the issue is the development of
+model of a controller reducing suspension vibrations
+car suspension and the simulation of two exemplary
+test scenarios related to the movement of a car.
+
